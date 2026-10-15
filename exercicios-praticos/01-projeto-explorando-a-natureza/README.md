@@ -47,7 +47,7 @@ Neste layout específico, os principais desafios e aprendizados de UI Design for
 
 ---
 
-<a href="../../README.md">⬅️ **Voltar ao Repositório Principal**</a>
+<a href="../../">⬅️ <b>Voltar ao Repositório Principal</b></a>
 
 ---
 
