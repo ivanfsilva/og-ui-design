@@ -1,6 +1,6 @@
 # 👤 Projeto: Perfil do Usuário
 
-> **Curso:** UI Design para Iniciantes (_Origamid_)  
+> **Curso:** UI Design para Iniciantes (🐺_Origamid_)  
 > **Instrutor:** André Rafael  
 > **Objetivo:** Modelar uma interface mobile de perfil de usuário (estilo rede social), aplicando conceitos de
 > hierarquia visual no cabeçalho, contraste em botões de ação (primário/secundário), organização de métricas e
@@ -48,3 +48,20 @@
 │   └── UI-Design.fig            # Backup offline do arquivo nativo do Figma
 └── README.md                    # Documentação técnica deste exercício
 ```
+---
+
+<a href="../../">⬅️ <b>Voltar ao Repositório Principal</b></a>
+
+---
+
+## 👤 Autor
+
+Desenvolvido por **Ivan Ferreira**.
+
+Copyright © 2026 Ivan Ferreira. Todos os direitos reservados.
+
+---
+
+## 🎨 Sobre
+
+Exercício prático desenvolvido durante os treinamentos de **UI Design** da plataforma 🐺 **Origamid**, ministrados pelo Prof. André Rafael.
