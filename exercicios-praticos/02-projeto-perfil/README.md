@@ -1,6 +1,6 @@
 # 👤 Projeto: Perfil do Usuário
 
-> **Curso:** UI Design para Iniciantes (🐺_Origamid_)  
+> **Curso:** UI Design para Iniciantes (🐺*Origamid*)  
 > **Instrutor:** André Rafael  
 > **Objetivo:** Modelar uma interface mobile de perfil de usuário (estilo rede social), aplicando conceitos de
 > hierarquia visual no cabeçalho, contraste em botões de ação (primário/secundário), organização de métricas e
@@ -11,30 +11,15 @@
 
 ## 📱 Preview da Interface
 
-  <img src="./assets/perfil-do-usuario.jpg" alt="Preview da Interface - Perfil do Usuário" width="350" />
+<img src="./assets/perfil-do-usuario.jpg" alt="Preview da Interface - Perfil do Usuário" width="350" />
 
 ---
 
 ## 🔗 Acesse o Projeto
 
-* 🎨 **Protótipo Interativo no Figma:**
-  [Inspecione as camadas e o design no Figma](https://www.figma.com/design/CoZPZbOQumpeOAeltWBem7/UI-Design?node-id=15-2&t=x8kYTNWoRFylp7OB-1)
-* 💾 **Arquivo de Backup Local:** Disponível no formato `.fig` na pasta [`./docs/`](./docs/)
-
----
-
-## 💡 Conhecimentos Aplicados
-
-- **Hierarquia de Cabeçalho:** Estruturação da foto de perfil em avatar circular em destaque ao lado do nome do usuário,
-  ocupação e idade.
-- **Ações Primárias e Secundárias:** Diferenciação visual entre botões de ação — botão principal preenchido em
-  destaque (_Seguir_) e botão secundário em estilo _outlined_ (_Mensagem_).
-- **Organização de Métricas:** Alinhamento e distribuição equilibrada dos contadores estatísticos (Seguidores, Postagens
-  e Curtidas) com tipografia diferenciada entre valores e rótulos.
-- **Grid de Mídias (Galeria):** Disposição uniforme de imagens em grade estilo _feed_ de publicação, garantindo simetria
-  e alinhamento do conteúdo.
-- **Tipografia e Contraste:** Seleção rigorosa de pesos de fonte (_bold_ para dados principais; _regular_ para
-  informações complementares) para facilitar a leitura rápida.
+- 🎨 **Protótipo Interativo no Figma:**
+  [Inspecione as camadas e o design no Figma](LINK DO FIGMA)
+- 💾 **Arquivo de Backup Local:** Disponível no formato `.fig` na pasta [`./docs/`](./docs/)
 
 ---
 
@@ -48,6 +33,7 @@
 │   └── UI-Design.fig            # Backup offline do arquivo nativo do Figma
 └── README.md                    # Documentação técnica deste exercício
 ```
+
 ---
 
 <a href="../../">⬅️ <b>Voltar ao Repositório Principal</b></a>
