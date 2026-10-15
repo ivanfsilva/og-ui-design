@@ -1,43 +1,64 @@
 # 🌲 Projeto: Explore a Natureza
 
-Este projeto prático foi desenvolvido durante o curso de **UI Design para Iniciantes** da 🐺Origamid (
-Instrutor: André Rafael). O objetivo foi modelar uma interface mobile estática, focando na usabilidade e estruturação da
-informação.
+> **Curso:** UI Design para Iniciantes (*Origamid*)  
+> **Instrutor:** André Rafael  
+> **Objetivo:** Modelar uma interface mobile estática voltada para turismo, aplicando conceitos de usabilidade,
+> contraste sobre imagens e hierarquia de conteúdos.
+
+---
 
 ## 📱 Preview da Interface
 
-<div align="center">
-  <img src="./assets/tela1.jpg" alt="Preview da Tela Explore a Natureza" width="300">
-</div>
+<img src="./assets/preview-natureza.jpg" alt="Preview da Interface Explore a Natureza" width="300" />
+
+---
 
 ## 🔗 Acesse o Projeto
 
-- **Figma:
-  ** [Inspecione as camadas e o design interativo clicando aqui](https://www.figma.com/design/CoZPZbOQumpeOAeltWBem7/UI-Design?node-id=3-3&t=BMn83uK4BPozpsSU-1)
-
-## 🧠 Conceitos Aplicados (Visão Full Stack)
-
-Como desenvolvedor em transição para Full Stack, encaro este protótipo no Figma como a **modelagem fundamental do
-front-end**, assim como um diagrama UML modela a arquitetura do back-end. Neste exercício, apliquei:
-
-* **Hierarquia Visual:** Definição clara do que o usuário deve ver primeiro através de pesos tipográficos.
-* **Espaçamento e Alinhamento:** Uso consistente de margens para criar respiro e organizar a leitura.
-* **Estruturação de Camadas:** Organização lógica dos grupos no Figma, pensando em como essas peças se transformariam em
-  componentes reais de código (HTML/CSS ou frameworks).
+* 🎨 **Protótipo Interativo no Figma:** 
+  [Inspecione as camadas e o design no Figma](https://www.figma.com/design/CoZPZbOQumpeOAeltWBem7/UI-Design?node-id=3-3&t=BMn83uK4BPozpsSU-1)
+* 💾 **Arquivo de Backup Local:** Disponível no formato `.fig` na pasta [`./docs/`](./docs/)
 
 ---
-*Desenvolvido como parte do portfólio de estudos contínuos em tecnologia e design.*
+
+## 🧠 Conhecimentos Aplicados neste Exercício
+
+Neste layout específico, os principais desafios e aprendizados de UI Design foram:
+
+* **Contraste e Legibilidade sobre Mídia:** Aplicação de *overlays* escuros sobre fotos de paisagens para garantir a
+  leitura do título principal sem comprometer a fotografia.
+* **Hierarquia e Escala Tipográfica:** Diferenciação clara entre cabeçalhos de destaque, campos de busca e descrições
+  secundárias.
+* **Componentização de Cards:** Estruturação visual modular para categorias de destinos (*Florestas*, *Praias*,
+  *Montanhas*) com cantos arredondados e ícones de apoio.
+* **Análise de Layout para Código:** Organização das camadas no Figma pensando em futura implementação
+  com `Flexbox` / `CSS Grid` e componentes reutilizáveis no Front-end.
+
+---
+
+## 📁 Estrutura do Diretório
+
+```text
+01-projeto-explorando-a-natureza/
+├── assets/          # Imagens exportadas e recursos visuais do layout
+├── docs/            # Backup estático no formato .fig (Figma)
+└── README.md        # Documentação específica do projeto
+```
+
+---
+
+<a href="../../README.md">⬅️ **Voltar ao Repositório Principal**</a>
 
 ---
 
 ## 👤 Autor
 
-Desenvolvido por Ivan Ferreira.
+Desenvolvido por **Ivan Ferreira**.
 
 Copyright © 2026 Ivan Ferreira. Todos os direitos reservados.
 
-## ☕ Sobre
+---
 
-Exercícios práticos e projetos desenvolvidos durante o treinamento de UI Design para Iniciantes da plataforma 🐺*
-*Origamid**, ministrados pelo Prof. André Rafael.
+## 🎨 Sobre
 
+Exercício prático desenvolvido durante os treinamentos de **UI Design** da plataforma 🐺 **Origamid**, ministrados pelo Prof. André Rafael.
