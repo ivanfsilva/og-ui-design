@@ -6,6 +6,8 @@
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](./README.en.md)
 [![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow.svg)](./README.es.md)
 
+<p><sub>💡 <i>As traduções em inglês e espanhol serão disponibilizadas ao término do treinamento.</i></sub></p>
+
 </div>
 
 ---
@@ -66,6 +68,6 @@ Copyright © 2026 Ivan Ferreira. Todos os direitos reservados.
 
 ---
 
-## 🎨 Sobre
+## 📐 Sobre
 
 Exercício prático desenvolvido durante os treinamentos de **UI Design** da plataforma 🐺 **Origamid**, ministrados pelo Prof. André Rafael.
