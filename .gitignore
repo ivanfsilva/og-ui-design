@@ -1,0 +1,26 @@
+# Arquivos gerados pelo sistema operacional (Windows e macOS)
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Pastas de editores de código (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.log
+
+# (Opcional) remova a hashtag (#) no *.fig abaixo se NÃO quiser versionar os arquivos brutos do Figma,
+# caso decida salvá-los localmente na pasta do projeto.
+# *.fig
