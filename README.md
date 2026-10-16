@@ -6,8 +6,6 @@
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](./README.en.md)
 [![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-yellow.svg)](./README.es.md)
 
-<p><sub>💡 <i>As traduções em inglês e espanhol serão disponibilizadas ao término do treinamento.</i></sub></p>
-
 </div>
 
 ---
