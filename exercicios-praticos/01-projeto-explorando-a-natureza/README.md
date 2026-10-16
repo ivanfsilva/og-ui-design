@@ -1,6 +1,6 @@
 # 🌲 Projeto: Explore a Natureza
 
-> **Curso:** UI Design para Iniciantes (*Origamid*)  
+> **Curso:** UI Design para Iniciantes (_Origamid_)  
 > **Instrutor:** André Rafael  
 > **Objetivo:** Modelar uma interface mobile estática voltada para turismo, aplicando conceitos de usabilidade,
 > contraste sobre imagens e hierarquia de conteúdos.
@@ -15,9 +15,9 @@
 
 ## 🔗 Acesse o Projeto
 
-* 🎨 **Protótipo Interativo no Figma:** 
+- 🎨 **Protótipo Interativo no Figma:**
   [Inspecione as camadas e o design no Figma](https://www.figma.com/design/CoZPZbOQumpeOAeltWBem7/UI-Design?node-id=3-3&t=BMn83uK4BPozpsSU-1)
-* 💾 **Arquivo de Backup Local:** Disponível no formato `.fig` na pasta [`./docs/`](./docs/)
+- 💾 **Arquivo de Backup Local:** Disponível no formato `.fig` na pasta [`./docs/`](./docs/)
 
 ---
 
@@ -25,14 +25,15 @@
 
 Neste layout específico, os principais desafios e aprendizados de UI Design foram:
 
-* **Contraste e Legibilidade sobre Mídia:** Aplicação de *overlays* escuros sobre fotos de paisagens para garantir a
+- **Contraste e Legibilidade sobre Mídia:** Aplicação de _overlays_ escuros sobre fotos de paisagens para garantir a
   leitura do título principal sem comprometer a fotografia.
-* **Hierarquia e Escala Tipográfica:** Diferenciação clara entre cabeçalhos de destaque, campos de busca e descrições
+- **Hierarquia e Escala Tipográfica:** Diferenciação clara entre cabeçalhos de destaque, campos de busca e descrições
   secundárias.
-* **Componentização de Cards:** Estruturação visual modular para categorias de destinos (*Florestas*, *Praias*,
-  *Montanhas*) com cantos arredondados e ícones de apoio.
-* **Análise de Layout para Código:** Organização das camadas no Figma pensando em futura implementação
+- **Componentização de Cards:** Estruturação visual modular para categorias de destinos (_Florestas_, _Praias_,
+  _Montanhas_) com cantos arredondados e ícones de apoio.
+- **Análise de Layout para Código:** Organização das camadas no Figma pensando em futura implementação
   com `Flexbox` / `CSS Grid` e componentes reutilizáveis no Front-end.
+- **Affordance e Carrossel Horizontal:** Organização de cards de categorias (_Florestas_, _Praias_, _Montanhas_) dispostos em _slider_ horizontal, utilizando o corte visual do último card na extremidade da tela para sinalizar a interatividade de rolagem (_scroll_).
 
 ---
 
